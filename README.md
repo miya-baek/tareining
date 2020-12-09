@@ -1,2 +1,6 @@
 # tareining
 タレーニング
+
+
+
+test koba
