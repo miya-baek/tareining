@@ -1,0 +1,143 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+.clear{
+    clear:left;
+}
+
+.container{
+    max-width:1400px;
+    width:100%;
+    margin:0 auto;
+}
+
+header{
+    width:100%;
+    background-color:rgba(34, 34, 34, 1);
+    color:white;
+    z-index:10;
+}
+
+.logo-right{
+    width:25%;
+    padding:50px 20px;
+}
+
+.title-left{
+    padding:20px;
+    width:95%;
+    float:left;
+}
+
+.title-left span{
+    color:rgb(141, 10, 10);
+}
+
+.title-left a{
+    color:white;
+}
+
+
+
+.btn{
+    display:inline-block;
+    background-color:rgba(255, 0, 0, 0.5);
+    width:20%;
+    text-align:center;
+    padding:10px;
+    margin:10px 20px;
+    border-radius:10px;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,1);
+}
+
+.btn:hover{
+    background-color:rgba(255, 0, 0,1);
+    cursor:pointer;
+}
+
+.btn:active{
+    box-shadow:none;
+    position:relative;
+    top:5px;
+}
+
+.charbtn img{
+    float:left;
+    width:25%;
+    opacity:0.7;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,1);
+}
+
+.charbtn img:hover{
+    opacity:1;
+    cursor:pointer;
+}
+
+.charbtn img:active{
+    box-shadow:none;
+    position:relative;
+    top:5px;
+}
+
+.frame{
+    margin-right:15px;
+}
+
+.main-wrapper{
+    width:100%;
+    background-color:rgb(58, 58, 58);
+    padding:20px 0;
+    float:none;
+}
+
+.img-left{
+    color:white;
+}
+
+.img-left h1{
+    width:100%;
+    float:left;
+    padding:0 30px;
+}
+
+footer{
+    width:100%;
+    background-color:rgba(34, 34, 34, 1);
+}
+
+.memory5{
+    background-color:rgb(58, 58, 58);
+    padding:20px 10px;
+    color:white;
+    font-weight:bold;
+}
+
+.memory5 td{
+    border:1px solid #ffffff;
+    width:280px;
+    padding:10px;
+}
+
+.m5{
+    text-align:center;
+}
+
+.memoryborder{
+    background-color: rgba(34, 34, 34, 1);
+    height:30px;
+}
+
+.memoryex{
+    background-color: rgb(110, 110, 110);
+    height:80px;
+}
+
+.nonedb{
+    opacity:0.3;
+}
