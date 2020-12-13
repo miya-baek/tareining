@@ -1,5 +1,5 @@
 function writeLog() {
-  console.log('writeLogだよ test')
+  console.log('writeLogだよ')
 }
 
 function scrollToTop() {
@@ -92,16 +92,16 @@ function bryandb() {
 }
 
 function chloedb() {
-  document.getElementById("memo1").innerHTML = "未完成"
-  document.getElementById("memo2").innerHTML = ""
-  document.getElementById("memo3").innerHTML = ""
-  document.getElementById("memo4").innerHTML = ""
-  document.getElementById("memo5").innerHTML = ""
-  document.getElementById("ex1").innerHTML = ""
-  document.getElementById("ex2").innerHTML = ""
-  document.getElementById("ex3").innerHTML = ""
-  document.getElementById("ex4").innerHTML = ""
-  document.getElementById("ex5").innerHTML = ""
+  document.getElementById("memo1").innerHTML = "立ち途中LPRK"
+  document.getElementById("memo2").innerHTML = "LKRK"
+  document.getElementById("memo3").innerHTML = "8LK"
+  document.getElementById("memo4").innerHTML = "3LKLK"
+  document.getElementById("memo5").innerHTML = "3LPLK"
+  document.getElementById("ex1").innerHTML = "-16"
+  document.getElementById("ex2").innerHTML = "-14"
+  document.getElementById("ex3").innerHTML = "-15"
+  document.getElementById("ex4").innerHTML = "右横移動or-14"
+  document.getElementById("ex5").innerHTML = "二発目捌く"
   scrollToTop()
 }
 
