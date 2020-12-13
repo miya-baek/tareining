@@ -1,5 +1,5 @@
 function writeLog() {
-  console.log('writeLogだよ')
+  console.log('writeLogだよ test')
 }
 
 function scrollToTop() {
