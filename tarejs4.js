@@ -134,16 +134,16 @@ function devildb() {
 }
 
 function dragunovdb() {
-  document.getElementById("memo1").innerHTML = "未完成"
-  document.getElementById("memo2").innerHTML = ""
-  document.getElementById("memo3").innerHTML = ""
-  document.getElementById("memo4").innerHTML = ""
-  document.getElementById("memo5").innerHTML = ""
-  document.getElementById("ex1").innerHTML = ""
-  document.getElementById("ex2").innerHTML = ""
-  document.getElementById("ex3").innerHTML = ""
-  document.getElementById("ex4").innerHTML = ""
-  document.getElementById("ex5").innerHTML = ""
+  document.getElementById("memo1").innerHTML = "4RK LK"
+  document.getElementById("memo2").innerHTML = "4RK RP"
+  document.getElementById("memo3").innerHTML = "4RP LP LK"
+  document.getElementById("memo4").innerHTML = "RP LP RK"
+  document.getElementById("memo5").innerHTML = "WP"
+  document.getElementById("ex1").innerHTML = "二発目しゃがんで右アッパー（ファジー）"
+  document.getElementById("ex2").innerHTML = "二発目ガード（ファジー）"
+  document.getElementById("ex3").innerHTML = "二発目しゃがむ"
+  document.getElementById("ex4").innerHTML = "三発目捌く"
+  document.getElementById("ex5").innerHTML = "-14"
   scrollToTop()
 }
 
