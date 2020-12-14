@@ -1,6 +1,4 @@
 # tareining
 タレーニング
 
-
-
-test koba
+https://miya-baek.github.io/tareining/
