@@ -358,16 +358,16 @@ function juliadb() {
 }
 
 function katarinadb() {
-  document.getElementById("memo1").innerHTML = "未完成"
-  document.getElementById("memo2").innerHTML = ""
-  document.getElementById("memo3").innerHTML = ""
-  document.getElementById("memo4").innerHTML = ""
-  document.getElementById("memo5").innerHTML = ""
-  document.getElementById("ex1").innerHTML = ""
-  document.getElementById("ex2").innerHTML = ""
-  document.getElementById("ex3").innerHTML = ""
-  document.getElementById("ex4").innerHTML = ""
-  document.getElementById("ex5").innerHTML = ""
+  document.getElementById("memo1").innerHTML = "3WK"
+  document.getElementById("memo2").innerHTML = "9LK"
+  document.getElementById("memo3").innerHTML = "2RP6 ～RK"
+  document.getElementById("memo4").innerHTML = "9RKRK"
+  document.getElementById("memo5").innerHTML = "1RK"
+  document.getElementById("ex1").innerHTML = "-14 見てから捌く"
+  document.getElementById("ex2").innerHTML = "-15"
+  document.getElementById("ex3").innerHTML = "左横歩き"
+  document.getElementById("ex4").innerHTML = "-13 （13までのカウンター狙いあればGOOD）"
+  document.getElementById("ex5").innerHTML = "-26　見てからガード"
   scrollToTop()
 }
 
