@@ -307,7 +307,7 @@ function jackdb() {
   document.getElementById("memo3").innerHTML = "66WPWP"
   document.getElementById("memo4").innerHTML = "しゃがみ3RPLP"
   document.getElementById("memo5").innerHTML = "6RP"
-  document.getElementById("ex1").innerHTML = "2発目または3発目しゃがむ"
+  document.getElementById("ex1").innerHTML = "しゃがむか姿勢の低い技で潜る"
   document.getElementById("ex2").innerHTML = "-15"
   document.getElementById("ex3").innerHTML = "しゃがんで反撃-19"
   document.getElementById("ex4").innerHTML = "二発目しゃがむ"
